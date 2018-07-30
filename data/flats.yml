@@ -1,0 +1,28 @@
+heyKV:
+  name: "Fred's home"
+  description: "Charming room in Berlin"
+  city_name: "berlin"
+  wifi: false
+  rating: 4
+  maximum_nb_of_guests: 4
+mleaute:
+  name: "Marine"
+  description: "Small flat in New Delhi"
+  city_name: "New Delhi"
+  wifi: true
+  rating: 5
+  maximum_nb_of_guests: 2
+monsieurpaillard:
+  name: "Romain's home"
+  description: Nice flat in Piccadilly
+  city_name: "london"
+  wifi: true
+  rating: 2
+  maximum_nb_of_guests: 1
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris"
+  wifi: false
+  rating: 4
+  maximum_nb_of_guests: 3
