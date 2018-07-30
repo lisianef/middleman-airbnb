@@ -2,12 +2,11 @@
 title: Le Wagon - Middleman - Team
 ---
 
-
 <ul class="list-inline text-center">
   <% w%("heyKV", "lisianef").each do |gh_username| %>
   <li>
     <%= image_tag "https://kitt.lewagon.com/placeholder/users/#{gh_username}", class="img-circle" %>
-      <h3><%= gh_username.capitalisze %></h3>
+      <h3><%= gh_username.capitalize %></h3>
   </li>
   <% end %>
 </ul>
